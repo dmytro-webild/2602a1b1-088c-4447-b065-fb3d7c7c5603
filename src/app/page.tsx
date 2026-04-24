@@ -64,7 +64,7 @@ export default function LandingPage() {
           handle: "@ahmed",
           testimonial: "The quality is unmatched and delivery was fast.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg?_wi=1",
           imageAlt: "minimalist streetwear fashion photography",
         },
         {
@@ -80,7 +80,7 @@ export default function LandingPage() {
           handle: "@ali",
           testimonial: "Great custom service for my bulk order.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg?_wi=1",
           imageAlt: "minimalist streetwear fashion photography",
         },
         {
@@ -88,7 +88,7 @@ export default function LandingPage() {
           handle: "@fatima",
           testimonial: "Fastest delivery I've experienced in Karachi.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg?_wi=1",
           imageAlt: "minimalist streetwear fashion photography",
         },
         {
@@ -96,7 +96,7 @@ export default function LandingPage() {
           handle: "@bilal",
           testimonial: "Bold and clean designs. Will buy again.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg?_wi=1",
           imageAlt: "minimalist streetwear fashion photography",
         },
       ]}
@@ -106,7 +106,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/stylish-casual-hipster-girl-cap-jeans-wear-against-large-graffiti-wall_627829-7731.jpg",
@@ -176,21 +176,21 @@ export default function LandingPage() {
           name: "Core Essential Tee",
           price: "PKR 2,500",
           variant: "Black",
-          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Bold Graphic Hoodie",
           price: "PKR 4,500",
           variant: "White",
-          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg?_wi=2",
         },
         {
           id: "p3",
           name: "Urban Jacket",
           price: "PKR 6,000",
           variant: "Black",
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg?_wi=2",
         },
         {
           id: "p4",
