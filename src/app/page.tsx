@@ -2,6 +2,7 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
+import { useEffect, useState } from "react";
 import ContactCTA from '@/components/sections/contact/ContactCTA';
 import FaqBase from '@/components/sections/faq/FaqBase';
 import FeatureCardTwentyEight from '@/components/sections/feature/FeatureCardTwentyEight';
@@ -13,6 +14,13 @@ import ProductCardFour from '@/components/sections/product/ProductCardFour';
 import TextSplitAbout from '@/components/sections/about/TextSplitAbout';
 
 export default function LandingPage() {
+  const [isMounted, setIsMounted] = useState(false);
+  useEffect(() => {
+      setIsMounted(true);
+  }, []);
+
+  if (!isMounted) return null;
+
   return (
     <ThemeProvider
         defaultButtonVariant="icon-arrow"
