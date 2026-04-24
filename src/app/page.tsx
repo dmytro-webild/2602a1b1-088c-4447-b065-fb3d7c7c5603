@@ -52,25 +52,25 @@ export default function LandingPage() {
       testimonials={[
         {
           name: "Ahmed Raza",          handle: "@ahmed",          testimonial: "The quality is unmatched and delivery was fast.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg",          imageAlt: "minimalist streetwear fashion photography"},
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg?_wi=1",          imageAlt: "minimalist streetwear fashion photography"},
         {
           name: "Sara Khan",          handle: "@sara",          testimonial: "Obsessed with their minimal design aesthetic.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-fashion-designer-linen-red-dress-smiles-sincerely-charming-woman-holds-pencils-draws-cloth-pattern-craft-paper-sheet_197531-29816.jpg",          imageAlt: "minimalist streetwear fashion photography"},
         {
           name: "Ali Mustafa",          handle: "@ali",          testimonial: "Great custom service for my bulk order.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg",          imageAlt: "minimalist streetwear fashion photography"},
+          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg?_wi=1",          imageAlt: "minimalist streetwear fashion photography"},
         {
           name: "Fatima Noor",          handle: "@fatima",          testimonial: "Fastest delivery I've experienced in Karachi.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg",          imageAlt: "minimalist streetwear fashion photography"},
+          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg?_wi=1",          imageAlt: "minimalist streetwear fashion photography"},
         {
           name: "Bilal Ahmed",          handle: "@bilal",          testimonial: "Bold and clean designs. Will buy again.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg",          imageAlt: "minimalist streetwear fashion photography"},
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg?_wi=1",          imageAlt: "minimalist streetwear fashion photography"},
       ]}
       buttons={[
         {
           text: "Shop Now",          href: "#products"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-sunglasses-posed-outdoor-street-sunset-against-gray-wall_627829-2750.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/stylish-casual-hipster-girl-cap-jeans-wear-against-large-graffiti-wall_627829-7731.jpg",          alt: "Customer 1"},
@@ -115,11 +115,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "p1",          name: "Core Essential Tee",          price: "PKR 2,500",          variant: "Black",          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg"},
+          id: "p1",          name: "Core Essential Tee",          price: "PKR 2,500",          variant: "Black",          imageSrc: "http://img.b2bpic.net/free-photo/plus-size-t-shirt-white-basic-women-rsquo-s-casual-wear-outdoor-shoot_53876-123579.jpg?_wi=2"},
         {
-          id: "p2",          name: "Bold Graphic Hoodie",          price: "PKR 4,500",          variant: "White",          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg"},
+          id: "p2",          name: "Bold Graphic Hoodie",          price: "PKR 4,500",          variant: "White",          imageSrc: "http://img.b2bpic.net/free-photo/fast-fashion-vs-slow-sustainable-fashion_23-2149134029.jpg?_wi=2"},
         {
-          id: "p3",          name: "Urban Jacket",          price: "PKR 6,000",          variant: "Black",          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg"},
+          id: "p3",          name: "Urban Jacket",          price: "PKR 6,000",          variant: "Black",          imageSrc: "http://img.b2bpic.net/free-photo/stylish-hipster-arab-man-guy-posed-outdoor-street-style-rap-singer_627829-2776.jpg?_wi=2"},
         {
           id: "p4",          name: "Minimal Sweatshirt",          price: "PKR 3,500",          variant: "Grey",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-female-jumping_23-2148925642.jpg"},
         {
