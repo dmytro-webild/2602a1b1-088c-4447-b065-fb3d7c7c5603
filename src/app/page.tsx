@@ -127,6 +127,9 @@ export default function LandingPage() {
         {
           id: "p6",          name: "Street Joggers",          price: "PKR 3,000",          variant: "Black",          imageSrc: "http://img.b2bpic.net/free-photo/fashionable-beautiful-african-american-woman-posing-black-leather-jacket-pants-street_627829-12431.jpg"},
       ]}
+      buttons={[
+        { text: "Order on WhatsApp", href: "https://wa.me/message/3ET5TYJ5RD7NF1" }
+      ]}
       title="Our Collection"
       description="Minimalist streetwear essentials for everyday wear."
     />
@@ -206,7 +209,7 @@ export default function LandingPage() {
       <FooterLogoReveal
       logoText="Offset Official"
       leftLink={{
-        text: "Terms of Service",        href: "#"}}
+        text: "Terms of Service",        href: "#"}},
       rightLink={{
         text: "Privacy Policy",        href: "#"}}
     />
