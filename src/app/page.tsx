@@ -206,7 +206,7 @@ export default function LandingPage() {
       <FooterLogoReveal
       logoText="Offset Official"
       leftLink={{
-        text: "Terms of Service",        href: "#"}},
+        text: "Terms of Service",        href: "#"}}
       rightLink={{
         text: "Privacy Policy",        href: "#"}}
     />
