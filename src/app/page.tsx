@@ -175,11 +175,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       faqs={[
         {
-          id: "q1",          title: "How can I order?",          content: "You can DM us or message us on WhatsApp to place your order."},
+          id: "q1",          title: "How can I order?",          content: "You can DM us or message us on [WhatsApp](https://wa.me/message/3ET5TYJ5RD7NF1) to place your order."},
         {
           id: "q2",          title: "Do you deliver nationwide?",          content: "Yes, we deliver all over Pakistan."},
         {
-          id: "q3",          title: "Can I request custom designs?",          content: "Absolutely! Reach out to us via DM or WhatsApp to discuss your idea."},
+          id: "q3",          title: "Can I request custom designs?",          content: "Absolutely! Reach out to us via DM or [WhatsApp](https://wa.me/message/3ET5TYJ5RD7NF1) to discuss your idea."},
       ]}
       title="Common Questions"
       description="Answers to your queries about our brand."
@@ -206,7 +206,7 @@ export default function LandingPage() {
       <FooterLogoReveal
       logoText="Offset Official"
       leftLink={{
-        text: "Terms of Service",        href: "#"}}
+        text: "Terms of Service",        href: "#"}},
       rightLink={{
         text: "Privacy Policy",        href: "#"}}
     />
